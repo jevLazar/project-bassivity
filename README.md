@@ -1,6 +1,6 @@
 # Project Bassivity
 
-##### Scripter - Trifun_Djordjevic
+##### Scripter - Trifun_Djordjevic (reupdated by jevta)
 ##### Credits - Devito x Nole
 ##### Images - https://imgur.com/a/PTT0KLn
 
